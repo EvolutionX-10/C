@@ -1,0 +1,9 @@
+{
+	"editor.fontFamily": "JetBrains Mono",
+	"editor.cursorBlinking": "expand",
+	"editor.fontLigatures": false,
+	"editor.cursorWidth": 1,
+	"files.associations": {
+		"typeinfo": "c"
+	}
+}
