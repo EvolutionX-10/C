@@ -2,6 +2,7 @@
 	"editor.fontFamily": "JetBrains Mono",
 	"editor.cursorBlinking": "expand",
 	"editor.fontLigatures": false,
+	"window.zoomLevel": -0.5,
 	"editor.cursorWidth": 1,
 	"files.associations": {
 		"typeinfo": "c"
